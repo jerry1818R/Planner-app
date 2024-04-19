@@ -38,7 +38,7 @@ fun SignUpScreen(signupViewModel: SignupViewModel = viewModel()) {
         Surface(
             modifier = Modifier
                 .fillMaxSize()
-                .background(Color.White)
+                .background(Color.Blue)
                 .padding(28.dp)
                 .align(Alignment.Center)
         ) {
